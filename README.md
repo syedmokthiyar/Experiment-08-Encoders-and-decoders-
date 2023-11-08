@@ -121,18 +121,24 @@ Decoder
 
 Encoder
 
+![Screenshot 2023-11-08 161714](https://github.com/syedmokthiyar/Experiment-08-Encoders-and-decoders-/assets/118787294/1ab3ac52-2731-4501-adbf-46bb8b469f2b)
+
 
 Decoder
 
+![Screenshot 2023-11-08 161803](https://github.com/syedmokthiyar/Experiment-08-Encoders-and-decoders-/assets/118787294/d19e06b5-fe0d-465d-ad5a-0ef57418e372)
 
 
 ### TRUTH TABLE 
 
 Encoder
 
+![Screenshot 2023-11-08 161844](https://github.com/syedmokthiyar/Experiment-08-Encoders-and-decoders-/assets/118787294/50168e1d-0ff3-485c-b5c7-eb2d733c97fd)
+
 
 Decoder
 
+![Screenshot 2023-11-08 161911](https://github.com/syedmokthiyar/Experiment-08-Encoders-and-decoders-/assets/118787294/2a50e6f0-74a8-41e0-a0e2-2ea52c63308e)
 
 
 ### RESULTS 
