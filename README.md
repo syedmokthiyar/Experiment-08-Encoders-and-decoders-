@@ -109,10 +109,12 @@ endmodule
 
 
 Encoder
+
 ![Screenshot 2023-11-08 160557](https://github.com/syedmokthiyar/Experiment-08-Encoders-and-decoders-/assets/118787294/4f18fb66-0946-4706-8e1e-492a327707d1)
 
 
 Decoder
+
 ![Screenshot 2023-11-08 155940](https://github.com/syedmokthiyar/Experiment-08-Encoders-and-decoders-/assets/118787294/135ac4b7-8608-4686-8ea5-14f4300607f5)
 
 ### TIMING DIGRAMS  
@@ -134,3 +136,4 @@ Decoder
 
 
 ### RESULTS 
+Thus the program to design encoder and decoder is successfully completed.
